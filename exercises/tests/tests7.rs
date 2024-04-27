@@ -34,9 +34,12 @@
 // Execute `rustlings hint tests7` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
 
-fn main() {}
+fn main() {
+
+    // std::env::set_var("TEST_FOO", timestamp.to_string());
+}
+
 
 #[cfg(test)]
 mod tests {
